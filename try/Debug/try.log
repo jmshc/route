@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/4/19 12:15:20。
+     1>项目“C:\Users\xiesheng.HAYLION\documents\visual studio 2012\Projects\try\try\try.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt msg_manager.cpp node_manager.cpp
+         node_manager.cpp
+         msg_manager.cpp
+     1>c:\users\xiesheng.haylion\documents\visual studio 2012\projects\try\try\node_.h(39): error C2061: 语法错误: 标识符“Msg”
+     1>c:\users\xiesheng.haylion\documents\visual studio 2012\projects\try\try\node_.h(48): error C2061: 语法错误: 标识符“Msg”
+     1>c:\users\xiesheng.haylion\documents\visual studio 2012\projects\try\try\node_.h(57): error C2061: 语法错误: 标识符“Msg”
+     1>c:\users\xiesheng.haylion\documents\visual studio 2012\projects\try\try\node_.h(75): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\users\xiesheng.haylion\documents\visual studio 2012\projects\try\try\node_.h(75): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\xiesheng.haylion\documents\visual studio 2012\projects\try\try\msg_manager.cpp(34): error C2660: “CNode::OutTrig”: 函数不接受 1 个参数
+         正在生成代码...
+     1>已完成生成项目“C:\Users\xiesheng.HAYLION\documents\visual studio 2012\Projects\try\try\try.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.85
